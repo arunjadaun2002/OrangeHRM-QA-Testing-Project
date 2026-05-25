@@ -127,5 +127,5 @@ BTech CSE | QA & Automation Testing Enthusiast
 ---
 
 # Connect With Me
-LinkedIn: Add your LinkedIn profile here  
-GitHub: Add your GitHub profile here
+LinkedIn: https://www.linkedin.com/in/arun-jadaun/
+mail: arunjadaun2002@gmail.com
